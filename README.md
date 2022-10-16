@@ -3,6 +3,8 @@
 Project is made for the doctors which can help them to organize their work including making appointments , entering payments
 and saving patients information.
 
+## IP Address
+http://52.59.215.240/
 
 ## Abstract
 
